@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and Web technologies
 - 💞️ I’m looking to collaborate on developing open source automation products
 - 📫 How to reach me :
-Linkedin: https://www.linkedin.com/in/mohamad-panahazari-12178540/
+Linkedin: https://www.linkedin.com/in/mohammad-panahazari/
 
 <!---
 panahazari/panahazari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
