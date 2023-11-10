@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @panahazari
-- 👀 I’m interested in developing Industrial Automation Products with C++ and C
-- 🌱 I’m currently learning Java and Web technologies
+- 👀 I’m interested in developing Industrial Automation Products with C++ and C as well as optimization and machine learning
+- 🌱 I’m currently PhD student at Tufts University in Electrical Engineering
 - 💞️ I’m looking to collaborate on developing open source automation products
 - 📫 How to reach me :
 Linkedin: https://www.linkedin.com/in/mohammad-panahazari/
