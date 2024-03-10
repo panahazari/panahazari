@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad @panahazari
-- 🌱 I’m currently PhD student at Tufts University in Electrical Engineering
+- 🌱 I am currently a Ph.D. student in Electrical Engineering at Tufts University.
 - 
 - 📫 How to reach me :
 Linkedin: https://www.linkedin.com/in/mohammad-panahazari/
